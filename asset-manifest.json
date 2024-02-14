@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Badacollab12/static/css/main.f62d354f.css",
-    "main.js": "/Badacollab12/static/js/main.a4f500a6.js",
+    "main.js": "/Badacollab12/static/js/main.83c35391.js",
     "static/js/592.9f184e4c.chunk.js": "/Badacollab12/static/js/592.9f184e4c.chunk.js",
     "static/media/people.png": "/Badacollab12/static/media/people.64cb59a12da9a6ac993b.png",
     "static/media/about.jpg": "/Badacollab12/static/media/about.0e453304993dff34ac1f.jpg",
@@ -12,11 +12,11 @@
     "static/media/slick.woff": "/Badacollab12/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Badacollab12/index.html",
     "main.f62d354f.css.map": "/Badacollab12/static/css/main.f62d354f.css.map",
-    "main.a4f500a6.js.map": "/Badacollab12/static/js/main.a4f500a6.js.map",
+    "main.83c35391.js.map": "/Badacollab12/static/js/main.83c35391.js.map",
     "592.9f184e4c.chunk.js.map": "/Badacollab12/static/js/592.9f184e4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f62d354f.css",
-    "static/js/main.a4f500a6.js"
+    "static/js/main.83c35391.js"
   ]
 }
