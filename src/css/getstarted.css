@@ -1,0 +1,16 @@
+.get-started-content{
+    text-align: right;
+}
+.get-started-content > .first-heading{
+    color: black;
+}
+.get-started-content > h1{
+    padding: 0;
+    margin: 0;
+}
+
+.get-started{
+    gap: 50px;
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+}

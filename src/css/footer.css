@@ -1,0 +1,48 @@
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 3% 5%;
+    align-items: center;
+    gap: 5%;
+}
+
+.newsletter > h3{
+    margin: 0;
+}
+.newsletter{
+    flex: 2;
+}
+.links, .contact-us, .social-media{
+    flex: 1;
+}
+.button-container{
+    display: flex;
+}
+
+.button-container > button{
+    border: 0;
+    border-radius: 20px;
+    padding: 10px 20px;
+
+}
+
+.button-container > input{
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-right: 2%;
+}
+
+.gmail-logo-container > img{
+    width: 10%;
+}
+
+.gmail-logo-container, .phone-logo-container{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.social-media > svg {
+    width: 10%;
+}

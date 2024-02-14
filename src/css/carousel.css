@@ -1,0 +1,10 @@
+.carousel-container{
+    text-align: center;
+    margin-top: 10vh;
+    width: 100%;
+}
+
+.main-carousel{
+    width: 75%;
+    margin: 0 auto;
+}

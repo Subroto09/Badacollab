@@ -1,0 +1,31 @@
+.info-container{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: 5vh auto 0 auto;
+    align-items: center;
+    gap: 25px;
+    font-size: 20px;
+    line-height: 2;
+    color: grey;
+}
+.content > h1{
+    color: black;
+}
+
+.image > img{
+    width: 30vw;
+    border-radius: 50%;
+}
+
+.content-button{
+    padding: 2%;
+    border: 0;
+    color: white;
+    background-color: rgb(50, 81, 232);
+    border-radius: 10px;
+}
+
+.second-info-container{
+    margin-top: 10vh;
+}

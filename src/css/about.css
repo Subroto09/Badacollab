@@ -1,0 +1,13 @@
+.about-container{
+    display: flex;
+    width: 80%;
+    margin: 5% auto 0 auto;
+    font-size: 1.25em;
+}
+.about-container > img {
+    width: 60%;
+}
+
+.content > p{
+    color: grey;
+}
