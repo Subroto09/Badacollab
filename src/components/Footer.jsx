@@ -15,7 +15,7 @@ function Footer() {
           </div>
         </div>
         <div className="links">
-          <p>Intern-ship</p>
+          <p><a href="/internship" className="footer-link">Intern-ship</a></p>
           <p>Duniya</p>
           <p>Vision</p>
           <p>Jobs</p>

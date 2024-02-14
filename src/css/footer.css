@@ -19,6 +19,10 @@ footer{
 .button-container{
     display: flex;
 }
+.footer-link{
+    color: white;
+    text-decoration: none;
+}
 
 .button-container > button{
     border: 0;
